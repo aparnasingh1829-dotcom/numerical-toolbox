@@ -5,3 +5,6 @@ func(2)
 def steepest_descent(x):
     f=1+x*3
     return f
+
+def steep(x):
+    return x**2
