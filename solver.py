@@ -7,4 +7,4 @@ def steepest_descent(x):
     return f
 
 def steep(x):
-    return x**2+6
+    return x**2+8
